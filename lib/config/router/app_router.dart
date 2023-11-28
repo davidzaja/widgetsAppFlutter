@@ -1,4 +1,5 @@
 import 'package:go_router/go_router.dart';
+import 'package:widgets_app/presentation/screens/progress/progress_screen.dart';
 import 'package:widgets_app/presentation/screens/screens.dart';
 // GoRouter configuration
 final appRouter = GoRouter(
@@ -18,5 +19,10 @@ final appRouter = GoRouter(
       path: '/cards',
       builder: (context, state) => CardsScreen(),
     ),
+    GoRoute(
+      path: '/progress',
+      builder: (context, state) => ProgressScreen(),
+    ),
+    
   ],
 );
