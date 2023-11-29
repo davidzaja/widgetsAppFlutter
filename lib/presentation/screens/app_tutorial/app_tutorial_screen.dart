@@ -17,9 +17,9 @@ class SlideInfo {
 }
 
 final slides = <SlideInfo>[
-  SlideInfo('Busca la comida', 'Excepteur cupidatat duis enim consequat amet commodo Lorem dolore in veniam. Labore deserunt et ea anim eiusmod ipsum nostrud do. Deserunt culpa ut ipsum dolore cillum duis dolore exercitation dolor exercitation sunt laborum est. Proident et do aute voluptate sunt nulla est. Consequat ut sit in Lorem ipsum sunt.', 'assets/images/1.png'),
-  SlideInfo('Entrga rapida', 'Laborum dolor fugiat laborum et anim irure est nisi aliqua. Exercitation anim incididunt tempor sint enim reprehenderit labore. Enim consequat mollit Lorem ut ad cillum eiusmod. Adipisicing sunt anim do et dolore adipisicing amet mollit mollit ad. Veniam qui ut anim qui eu aliquip occaecat laborum ut elit.', 'assets/images/2.png'),
-  SlideInfo('Disfruta la comida', 'Irure eiusmod eu consequat consectetur in consectetur est ullamco quis exercitation. Est commodo id duis consectetur velit. Do dolore velit voluptate quis cupidatat reprehenderit non velit.', 'assets/images/3.png'),
+  SlideInfo('Busca la comida', 'Excepteur cupidatat duis enim consequat amet commodo Lorem dolore in veniam. Labore deserunt et ea anim eiusmod ipsum nostrud do. Deserunt culpa ut ipsum dolore cillum duis dolore exercitation dolor exercitation sunt laborum est. Proident et do aute voluptate sunt nulla est. Consequat ut sit in Lorem ipsum sunt.', 'assets/Images/1.png'),
+  SlideInfo('Entrga rapida', 'Laborum dolor fugiat laborum et anim irure est nisi aliqua. Exercitation anim incididunt tempor sint enim reprehenderit labore. Enim consequat mollit Lorem ut ad cillum eiusmod. Adipisicing sunt anim do et dolore adipisicing amet mollit mollit ad. Veniam qui ut anim qui eu aliquip occaecat laborum ut elit.', 'assets/Images/2.png'),
+  SlideInfo('Disfruta la comida', 'Irure eiusmod eu consequat consectetur in consectetur est ullamco quis exercitation. Est commodo id duis consectetur velit. Do dolore velit voluptate quis cupidatat reprehenderit non velit.', 'assets/Images/3.png'),
 
 ];
 
